@@ -1,0 +1,14 @@
+[
+  {
+    "path": "pages/counter/index",
+    "config": {}
+  },
+  {
+    "path": "pages/index/index",
+    "config": {}
+  },
+  {
+    "path": "pages/logs/index",
+    "config": {}
+  }
+]
