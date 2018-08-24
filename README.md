@@ -24,5 +24,7 @@ npm run dev:weapp
 npm run build:weapp
 ```
 
-Vue.js Api：https://cn.vuejs.org/v2/api/
-mpvue doc：http://mpvue.com/mpvue/
+- Vue.js Api：https://cn.vuejs.org/v2/api/
+- mpvue doc：http://mpvue.com/mpvue/
+
+***关注mpvue更新：*** http://mpvue.com/change-log/
