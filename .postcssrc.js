@@ -2,6 +2,10 @@
 
 module.exports = {
   "plugins": {
-    "postcss-mpvue-wxss": {}
+    // "postcss-mpvue-wxss": {} // 否则所有px都会转为rpx
+    "postcss-import": {},
+    "postcss-url": {},
+    // to edit target browsers: use "browserslist" field in package.json
+    "autoprefixer": {}
   }
 }

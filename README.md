@@ -24,7 +24,19 @@ npm run dev:weapp
 npm run build:weapp
 ```
 
+## 更新日志
+
+#### 20180825
+1. 目前分别定义两套环境：prod & dev；
+2. 修改postcssrc.js，避免H5应用px单位都转为rpx；
+3. 为H5引入lib-flexible和px2rem-loader，实现移动端适配；
+4. 引入less & less-loader，支付less；
+5. 引入http请求封装包flyio，并封装utils/api.js实现简单拦截；
+6. 编写全局样式global.less；
+
+## 其它
+
 - Vue.js Api：https://cn.vuejs.org/v2/api/
 - mpvue doc：http://mpvue.com/mpvue/
 
-***关注mpvue更新：*** http://mpvue.com/change-log/
+**关注mpvue更新：** http://mpvue.com/change-log/
